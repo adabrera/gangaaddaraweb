@@ -1,0 +1,25 @@
+<section class="menu-area gradient-white pt-115 pb-115">
+    <div class="container">
+        <!-- Section Title -->
+        <div class="section-title text-center mb-80">
+            <span class="title-tag">available</span>
+            <h2>Trending Menu</h2>
+        </div>
+        <!-- Menu Looop -->
+        <div class="menu-loop">
+            <div class="row justify-content-center">
+                <div class="col-lg-6 col-md-10" *ngFor="let menu of menuslidepost; let i = index">
+                    <div class="single-menu-box" *ngFor="let item of menuslidepost[i]">
+                        <div class="menu-img" [style.background-image]="'url('+item.img+')'">
+                        </div>
+                        <div class="menu-desc">
+                            <h4><a href="#">{{item.title}}</a></h4>
+                            <p>{{item.shortdesc}}</p>
+                            <a href="#" class="menu-link"><i class="fal fa-long-arrow-right"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

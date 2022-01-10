@@ -1,0 +1,243 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~magnific-popup/dist/magnific-popup';
+@import './assets/css/nice-select.css';
+@import './assets/css/style.css';
+:focus {
+    outline: none;
+}
+
+.slick-dots li,
+.slick-dots {
+	width: auto;
+    margin: 0;
+}
+.slick-dots li button{
+    padding: 0;
+}
+.slick-dots li button:before {
+	display: none;
+}
+:focus {
+	outline: none;
+}
+.booking-form form input,
+::placeholder, input, textarea, select{
+    font-family: "Roboto", sans-serif;
+    color: #777777;
+}
+.preloader{
+    display: flex;
+}
+.offcanvas-wrapper .offcanvas-widget{
+    overflow-x: auto;
+}
+header .nav-container.breakpoint-on .nav-menu .menu-items ul li.menu-item-has-children>a::after{
+    content: "\f107";
+    font-family: "Font Awesome 5 Pro";
+    font-weight: 300;
+    display: block;
+    position: absolute;
+    right: 0;
+    height: 45px;
+    width: 45px;
+    top: 0;
+    border-left: 1px solid rgba(255, 255, 255, 0.5);
+    z-index: 2;
+    background: transparent;
+    text-align: center;
+    line-height: 45px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 20px;
+}
+.latest-news .latest-post-box .post-desc .post-meta{
+    font-size: 14px;
+}
+.latest-news .latest-post-box .post-desc .post-meta {
+    margin-bottom: 20px;
+    display: flex;
+    font-size: 14px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.latest-news .latest-post-box .post-desc h4{
+    margin-bottom: 15px;
+}
+.latest-news .latest-post-box .post-desc {
+    padding: 25px;
+}
+.post-box .post-desc .post-footer .author img{
+    width:40px;
+    height: 40px;
+    object-fit: cover;
+}
+.news-details-box .entry-content .cat + .cat,
+.post-box .post-desc .cat + .cat{
+    margin-left: 15px;
+}
+.sidebar .widget.popular-feeds .single-popular-feed .feed-img{
+    width: 80px;
+    height: 80px;
+}
+.sidebar .widget.popular-feeds .single-popular-feed .feed-img img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.news-details-box .entry-footer .post-nav .next-post::before{
+    content: '';
+    background-image: url('assets/img/blog-details/icon.png');
+    width: 40px;
+    height: 40px;
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    text-align: center;
+    transform: translate(-50%, -50%);
+}
+.news-details-box .entry-footer .post-nav .next-post{
+    text-align: right;
+}
+.counter-section .counter-box.counter-box-two h4{
+    display:inline-block;
+}
+.counter-section .counter-box.counter-box-two h4 + .prefix{
+    color: #222;
+    letter-spacing: -1px;
+    font-family: "Old Standard TT", serif;
+    font-size: 60px;
+    font-weight: 400;
+    line-height: 1.2;
+}
+.post-media.sound-cloud-post .embed-responsive{
+	height: 120px;
+}
+.post-box .post-media.quote-post.post-link .post-desc::before,
+.post-media.quote-post + .post-desc,
+.post-media.post-link + .post-desc{
+	display: none;
+}
+.post-box .post-media.quote-post.post-link .post-desc{
+	padding-left: 0;
+}
+.post-box .post-gallery .slick-arrow{
+	width: 40px;
+    height: 40px;
+    right: 0;
+    background: #bead8e;
+    left: 0;
+	z-index: 10;
+	position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+.post-box .post-gallery .slick-arrow.slick-prev::before,
+.post-box .post-gallery .slick-arrow.slick-next::before{
+	color: #fff;
+}
+.post-box .post-gallery .slick-arrow.slick-prev{
+	font-size: 0;
+}
+.post-box .post-gallery .slick-arrow.slick-next{
+	font-size: 0;
+	left: auto;
+}
+
+@media (max-width:767px){
+    .news-details-box .entry-footer .post-nav .next-post::before{
+        display: none;
+    }
+}
+/* Pagination */
+pagination-template .ngx-pagination {
+	margin-top: 0px;
+	justify-content: center;
+	margin-bottom: 0;
+	display: flex;
+	padding-left: 0;
+	list-style: none;
+	border-radius: .25rem;
+}
+pagination-template .ngx-pagination li {
+	margin: 0;
+	position: relative;
+}
+pagination-template .ngx-pagination li.pagination-next,
+pagination-template .ngx-pagination li.pagination-previous {
+	padding: 0;
+	display: block;
+}
+pagination-template .ngx-pagination li.pagination-next span,
+pagination-template .ngx-pagination li.pagination-previous span,
+pagination-template .ngx-pagination li a {
+	border: 0px solid #ededed;
+    background-color: #ffffff;
+    font-size: 16px;
+    font-weight: 700;
+    margin: 0;
+    position: relative;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 50px;
+    width: 50px;
+    display: flex;
+    line-height: 2;
+    text-align: center;
+    border-radius: 0;
+    align-items: center;
+    justify-content: center;
+    color: #222f5a;
+    box-shadow: 0 3px 24px rgb(0 0 0 / 4%);
+    font-family: "Roboto", sans-serif;
+}
+pagination-template .ngx-pagination li.current {
+	color: #fff;
+	border: 0px solid #bead8e;
+	background-color: #bead8e;
+	font-size: 16px;
+    font-weight: 700;
+	margin: 0;
+	position: relative;
+    margin-left: 5px;
+    margin-right: 5px;
+    height: 50px;
+    width: 50px;
+	display: flex;
+    align-items: center;
+    justify-content: center;
+	line-height: 2;
+	text-align: center;
+	border-radius: 0%;
+    box-shadow: 0 3px 24px rgb(0 0 0 / 4%);
+    font-family: "Roboto", sans-serif;
+}
+pagination-template .ngx-pagination li.pagination-next::after,
+pagination-template .ngx-pagination li.pagination-next a:after,
+pagination-template .ngx-pagination li.pagination-previous a::before,
+pagination-template .ngx-pagination li.pagination-previous::before {
+	display: none!important;
+}
+.pagination-wrap ul li a:hover{
+    color: #fff!important;
+}
+.relative {
+    position: relative;
+}
+.error-texts h1 {
+    font-size: 133px;
+    font-weight: 900;
+    color: #bead8e;
+    margin-bottom: 20px;
+}
+.error-texts h3{
+    font-weight: 700;
+    font-size: 25px;
+    margin-bottom: 20px;
+}
+.error-texts p{
+    font-size: 16px;
+    margin-bottom: 20px;
+}

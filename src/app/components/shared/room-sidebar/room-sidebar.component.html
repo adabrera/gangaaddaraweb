@@ -1,0 +1,36 @@
+<div class="room-booking-form">
+    <h5 class="title">Check Availability</h5>
+    <form>
+        <div class="input-group input-group-two left-icon mb-20">
+            <label for="arrival-date">Check In</label>
+            <div class="icon"><i class="fal fa-calendar-alt"></i></div>
+            <input type="text" placeholder="20-6-2022" name="arrival-date" id="arrival-date">
+        </div>
+        <div class="input-group input-group-two left-icon mb-20">
+            <label for="departure-date">Check Out</label>
+            <div class="icon"><i class="fal fa-calendar-alt"></i></div>
+            <input type="text" placeholder="30-6-2022" name="departure-date" id="departure-date">
+        </div>
+        <div class="input-group input-group-two left-icon mb-20">
+            <label for="room">Rooms</label>
+            <select name="room" id="room" nice-select>
+                <option value="1">1 Room</option>
+                <option value="2" selected>2 Room</option>
+                <option value="4">4 Room</option>
+                <option value="8">8 Room</option>
+            </select>
+        </div>
+        <div class="input-group input-group-two left-icon mb-20">
+            <label for="departure-date">Guest</label>
+            <select name="guest" id="guest" nice-select>
+                <option value="8">8 Guest</option>
+                <option value="10" selected>10 Guest</option>
+                <option value="12">12 Guest</option>
+                <option value="15">15 Guest</option>
+            </select>
+        </div>
+        <div class="input-group">
+            <button class="main-btn btn-filled">check availability</button>
+        </div>
+    </form>
+</div>

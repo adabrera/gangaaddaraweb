@@ -1,0 +1,44 @@
+<section class="about-section pt-115 pb-115">
+    <div class="container">
+        <div class="video-wrap video-wrap-two video-about mb-60"
+            [style.background-image]="'url(assets/img/text-block/04.jpg)'">
+            <a href="https://www.youtube.com/watch?v=TKnufs85hXk" class="popup-video"><i
+                    class="fas fa-play"></i></a>
+        </div>
+        <div class="section-title about-title text-center">
+            <span class="title-tag">since <span>1994</span></span>
+            <h2>Hello. Our hotel has been present for over 20 years. We make the best or all our customers.</h2>
+        </div>
+        <ul class="about-features">
+            <li *ngFor="let item of category | slice:0:5">
+                <a href="#">
+                    <i [class]="item.icon"></i>
+                    <i class="hover-icon {{item.icon}}"></i>
+                    <span class="title">{{item.title}}</span>
+                </a>
+            </li>
+        </ul>
+
+        <div class="about-text-box">
+            <div class="row align-items-center">
+                <div class="col-lg-6">
+                    <div class="about-img">
+                        <img src="assets/img/text-block/05.jpg" alt="img">
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="about-text">
+                        <span>Restaurant</span>
+                        <h3>Get Restaurant Facilities & Many Other More</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tem por
+                            incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
+                            exercitation ullamco laboris nisi ut aliquip.
+                        </p>
+                        <a routerLink="/contact" class="main-btn btn-filled">take a tour</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

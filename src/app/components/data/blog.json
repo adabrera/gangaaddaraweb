@@ -1,0 +1,1275 @@
+[
+    {
+        "id": 1,
+        "gridimg": "assets/img/latest-post/01.jpg",
+        "listimg": "assets/img/blog/01.jpg",
+        "title": "Purple Skies, Pool, and Champagne. This is us",
+        "postdate": "March 15, 2022",
+        "format": "standard",
+        "author": [
+            1
+        ],
+        "categories": [
+            1,
+            2
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "gridimg": "assets/img/latest-post/02.jpg",
+        "listimg": "assets/img/blog/02.jpg",
+        "title": "Implementing Pools by the Sea Side This Year",
+        "postdate": "March 28, 2022",
+        "format": "video",
+        "video": "https://www.youtube.com/watch?v=TKnufs85hXk",
+        "author": [
+            2
+        ],
+        "categories": [
+            3,
+            4
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "gridimg": "assets/img/latest-post/03.jpg",
+        "listimg": "assets/img/blog/03.jpg",
+        "title": "Changing Hotel Rooms This Year Is Great",
+        "postdate": "March 11, 2022",
+        "format": "gallery",
+        "gallery": [
+            "assets/img/blog/01.jpg",
+            "assets/img/blog/02.jpg",
+            "assets/img/blog/03.jpg"
+        ],
+        "author": [
+            3
+        ],
+        "categories": [
+            5,
+            1
+        ],
+        "tags": [
+            7,
+            8,
+            9
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "gridimg": "assets/img/latest-post/01.jpg",
+        "listimg": "assets/img/blog/01.jpg",
+        "title": "Experience the Soothing Cold Breeze In Our Exclusive Hotel.",
+        "postdate": "March 28, 2022",
+        "format": "audio",
+        "audio": "https://w.soundcloud.com/player/?url=https://api.soundcloud.com/tracks/41395010&auto_play=false&hide_related=true&show_comments=false&show_user=false&show_reposts=false&visual=false",
+        "author": [
+            1
+        ],
+        "categories": [
+            1,
+            2
+        ],
+        "tags": [
+            10,
+            11,
+            12
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "gridimg": "assets/img/latest-post/01.jpg",
+        "listimg": "assets/img/blog/01.jpg",
+        "title": "We are opening a Brand New Hotel In The Bahamas",
+        "postdate": "March 28, 2022",
+        "format": "link",
+        "link": "www.example.com",
+        "author": [
+            1
+        ],
+        "categories": [
+            1,
+            2
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "gridimg": "assets/img/latest-post/02.jpg",
+        "listimg": "assets/img/blog/02.jpg",
+        "title": "Suites and Rooms, We Have Them All Tonight",
+        "postdate": "March 28, 2022",
+        "format": "quote",
+        "quote": "Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.",
+        "author": [
+            2
+        ],
+        "categories": [
+            3,
+            4
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "gridimg": "assets/img/latest-post/03.jpg",
+        "listimg": "assets/img/blog/03.jpg",
+        "title": "Bangalo Height is the craziest get away of the year. Try it Out",
+        "postdate": "March 28, 2022",
+        "format": "standard",
+        "author": [
+            3
+        ],
+        "categories": [
+            5,
+            1
+        ],
+        "tags": [
+            7,
+            8,
+            9
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "gridimg": "assets/img/latest-post/01.jpg",
+        "listimg": "assets/img/blog/01.jpg",
+        "title": "Summer Vacation in the Bahamas starting at only 499$",
+        "postdate": "March 28, 2022",
+        "format": "standard",
+        "author": [
+            1
+        ],
+        "categories": [
+            1,
+            2
+        ],
+        "tags": [
+            10,
+            11,
+            12
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "gridimg": "assets/img/latest-post/01.jpg",
+        "listimg": "assets/img/blog/01.jpg",
+        "title": "Hotel Booking In The Summer Season Is Off The Charts",
+        "postdate": "March 15, 2022",
+        "format": "standard",
+        "author": [
+            1
+        ],
+        "categories": [
+            1,
+            2
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "gridimg": "assets/img/latest-post/02.jpg",
+        "listimg": "assets/img/blog/02.jpg",
+        "title": "Hotel Booking This Winter Is Better Than Ever",
+        "postdate": "March 28, 2022",
+        "format": "standard",
+        "author": [
+            2
+        ],
+        "categories": [
+            3,
+            4
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "gridimg": "assets/img/latest-post/03.jpg",
+        "listimg": "assets/img/blog/03.jpg",
+        "title": "Changing Hotel Rooms This Year Is Great",
+        "postdate": "March 11, 2022",
+        "format": "standard",
+        "author": [
+            3
+        ],
+        "categories": [
+            5,
+            1
+        ],
+        "tags": [
+            7,
+            8,
+            9
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "gridimg": "assets/img/latest-post/01.jpg",
+        "listimg": "assets/img/blog/01.jpg",
+        "title": "Experience the Soothing Cold Breeze In Our Exclusive Hotel.",
+        "postdate": "March 28, 2022",
+        "format": "standard",
+        "author": [
+            1
+        ],
+        "categories": [
+            1,
+            2
+        ],
+        "tags": [
+            10,
+            11,
+            12
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "gridimg": "assets/img/latest-post/01.jpg",
+        "listimg": "assets/img/blog/01.jpg",
+        "title": "We are opening a Brand New Hotel In The Bahamas",
+        "postdate": "March 28, 2022",
+        "format": "standard",
+        "author": [
+            1
+        ],
+        "categories": [
+            1,
+            2
+        ],
+        "tags": [
+            1,
+            2,
+            3
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "gridimg": "assets/img/latest-post/02.jpg",
+        "listimg": "assets/img/blog/02.jpg",
+        "title": "Suites and Rooms, We Have Them All Tonight",
+        "postdate": "March 28, 2022",
+        "format": "standard",
+        "author": [
+            2
+        ],
+        "categories": [
+            3,
+            4
+        ],
+        "tags": [
+            4,
+            5,
+            6
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "gridimg": "assets/img/latest-post/03.jpg",
+        "listimg": "assets/img/blog/03.jpg",
+        "title": "Bangalo Height is the craziest get away of the year. Try it Out",
+        "postdate": "March 28, 2022",
+        "format": "standard",
+        "author": [
+            3
+        ],
+        "categories": [
+            5,
+            1
+        ],
+        "tags": [
+            7,
+            8,
+            9
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "gridimg": "assets/img/latest-post/01.jpg",
+        "listimg": "assets/img/blog/01.jpg",
+        "title": "Summer Vacation in the Bahamas starting at only 499$",
+        "postdate": "March 28, 2022",
+        "format": "standard",
+        "author": [
+            1
+        ],
+        "categories": [
+            1,
+            2
+        ],
+        "tags": [
+            10,
+            11,
+            12
+        ],
+        "social": [
+            {
+                "icon": "fab fa-facebook-f",
+                "title": "Facebook",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-twitter",
+                "title": "Twitter",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-behance",
+                "title": "Behance",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-linkedin",
+                "title": "Linked In",
+                "url": "www.domain.com/username"
+            },
+            {
+                "icon": "fab fa-youtube",
+                "title": "YouTube",
+                "url": "www.domain.com/username"
+            }
+        ],
+        "views": 232,
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.",
+        "longdescription": "<p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.</p> <figure class='mt-45 mb-45'> <img src='assets/img/blog-details/01.jpg' alt='img'> </figure><h3 class='subtitle'> A cleansing hot shower or bath</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia.</p><div class='gap'></div><h3 class='subtitle'>Setting the mood with incense</h3><ul class='list-icon'><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li><li>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do.</li></ul><blockquote class='mt-40 mb-40'> <span class='quote-by'>by Hetmayar</span> Viral dreamcatcher keytar typewriter, aest hetic offal umami. Aesthetic polaroid pug pitchfork post-ironic.</blockquote><p class='mb-30'> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium.</p><div class='row align-items-center'><div class='col-md-5 mb-30'> <img src='assets/img/blog-details/02.jpg' alt='img'></div><div class='col-md-7 mb-30'><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat</p></div></div><p> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</p>",
+        "reviews": [
+            {
+                "id": 1,
+                "user": [
+                    1
+                ],
+                "date": "19th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "user": [
+                            2
+                        ],
+                        "date": "20th Mar 2022",
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "user": [
+                    3
+                ],
+                "date": "18th Mar 2022",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    }
+]

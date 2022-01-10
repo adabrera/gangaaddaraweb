@@ -1,0 +1,62 @@
+[
+    {
+        "id":1,
+        "img": "assets/img/menu/01.jpg",
+        "title": "Eggs & Bacon",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+    },
+    {
+        "id":2,
+        "img": "assets/img/menu/02.jpg",
+        "title": "Tea or Coffee",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+    },
+    {
+        "id":3,
+        "img": "assets/img/menu/03.jpg",
+        "title": "Chia Oatmeal",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+    },
+    {
+        "id":4,
+        "img": "assets/img/menu/04.jpg",
+        "title": "Juice",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+    },
+    {
+        "id":5,
+        "img": "assets/img/menu/05.jpg",
+        "title": "Chia Oatmeal",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+    },
+    {
+        "id":6,
+        "img": "assets/img/menu/06.jpg",
+        "title": "Fruit Parfait",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+    },
+    {
+        "id":7,
+        "img": "assets/img/menu/07.jpg",
+        "title": "Marmalade Selection",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+    },
+    {
+        "id":8,
+        "img": "assets/img/menu/08.jpg",
+        "title": "Cheese Platen",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+    },
+    {
+        "id":9,
+        "img": "assets/img/menu/09.jpg",
+        "title": "Avocado Toast",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+    },
+    {
+        "id":10,
+        "img": "assets/img/menu/10.jpg",
+        "title": "Avocado Toast",
+        "shortdesc": "Lorem ipsum dolor sit amet, consectetur adip isicing elit, sed do eiusmod tempor."
+    }
+]

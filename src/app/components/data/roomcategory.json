@@ -1,0 +1,12 @@
+[
+    {
+        "id":1,
+        "icon":"flaticon-hotel",
+        "title":"Luxury Room"
+    },
+    {
+        "id":2,
+        "icon":"fal fa-users",
+        "title":"Luxury Family Room"
+    }
+]

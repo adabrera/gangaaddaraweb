@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "icon":"flaticon-boiled",
+        "title":"Chicken"
+    },
+    {
+        "id":2,
+        "icon":"flaticon-pizza",
+        "title":"Italian"
+    },
+    {
+        "id":3,
+        "icon":"flaticon-coffee",
+        "title":"Coffee"
+    },
+    {
+        "id":4,
+        "icon":"flaticon-cake",
+        "title":"Bake Cake"
+    },
+    {
+        "id":5,
+        "icon":"flaticon-cookie",
+        "title":"Cookies"
+    },
+    {
+        "id":6,
+        "icon":"flaticon-cocktail",
+        "title":"Cocktail"
+    }
+]

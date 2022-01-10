@@ -1,0 +1,38 @@
+<section class="feature-room-section pt-155 pb-115">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6 col-md-8 col-sm-7">
+                <div class="section-title">
+                    <span class="title-tag">Accommodation</span>
+                    <h2>Room Categories</h2>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-4 col-sm-5 d-none d-sm-block">
+                <div class="feature-room-arrow arrow-style text-right">
+                    <div class="slick-arrow prev-arrow"><i class="fal fa-arrow-left"></i></div>
+                    <div class="slick-arrow next-arrow"><i class="fal fa-arrow-right"></i></div>
+                </div>
+            </div>
+        </div>
+        <!-- Room Looop -->
+        <ngx-slick-carousel #slickModal="slick-carousel" [config]="settings"
+            class="row room-gird-loop mt-80 feature-room-slider">
+            <div ngxSlickItem class="col-lg-12" *ngFor="let item of rooms">
+                <div class="room-box">
+                    <div class="room-img-wrap">
+                        <div class="room-img" [style.background-image]="'url('+item.gridimage+')'"></div>
+                    </div>
+                    <div class="room-desc">
+                        <ul class="icons">
+                            <li *ngFor="let item of item.amenities | slice:0:7"><i [class]="item.icon"></i></li>
+                        </ul>
+                        <h4 class="title"><a routerLink="/room-details/{{item.id}}">{{item.title}}</a></h4>
+                        <p>{{item.text | slice:0:75}}...</p>
+                        <!-- <span class="price">${{item.price | number:'1.0-0'}}/{{item.period}}</span> -->
+                        <!-- <a routerLink="/room-details/{{item.id}}" class="book-btn">Booking Now</a> -->
+                    </div>
+                </div>
+            </div>
+        </ngx-slick-carousel>
+    </div>
+</section>

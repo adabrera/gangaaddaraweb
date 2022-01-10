@@ -1,0 +1,244 @@
+[
+  {
+    "id": 1,
+    "title": "Standard Rooms",
+    "price": 365,
+    "period": "Night",
+    "category": [1],
+    "gridimage": "assets/img/room/selected_standard.JPG",
+    "listimage": "assets/img/room/selected_standard.JPG",
+    "sliderimage": "assets/img/room/selected_standard.JPG",
+    "detailPictures": [
+      "assets/img/room/standard/1.JPG",
+      "assets/img/room/standard/2.JPG",
+      "assets/img/room/standard/3.JPG",
+      "assets/img/room/standard/4.JPG",
+      "assets/img/room/standard/5.JPG"
+    ],
+    "text": "Enjoy yourself with absolute comfort and privacy in one of Hotel Ganga Addara's 5 Standard Rooms.",
+    "longdesc": "<p>Enjoy yourself with absolute comfort and privacy in one of Hotel Ganga Addara's 5 Standard Rooms.</p>",
+    "authors": [1, 2],
+    "amenities": [
+      {
+        "title": "A/C Rooms",
+        "icon": "fas fa-temperature-low"
+      },
+      {
+        "title": "High-speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Security Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Continental Breakfast",
+        "icon": "fas fa-utensils"
+      },
+      {
+        "title": "Cable TV",
+        "icon": "fal fa-tv"
+      },
+      {
+        "title": "Riverside View",
+        "icon": "fas fa-binoculars"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Bathrobes",
+        "icon": "fas fa-tshirt"
+      },
+      {
+        "title": "Tea/Coffee Making Set",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Mini-Fridge",
+        "icon": "fas fa-igloo"
+      },
+      {
+        "title": "Hot Water",
+        "icon": "fas fa-hot-tub"
+      },
+      {
+        "title": "Hair Dryer",
+        "icon": "fas fa-wind"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": [31.53912, -89.29163],
+    "offer": true
+  },
+  {
+    "id": 2,
+    "title": "Super Deluxe",
+    "price": 355,
+    "period": "Night",
+    "category": [1],
+    "gridimage": "assets/img/room/selected_super_deluxe.jpg",
+    "listimage": "assets/img/room/selected_super_deluxe.jpg",
+    "sliderimage": "assets/img/room/selected_super_deluxe.jpg",
+    "detailPictures": [
+      "assets/img/room/deluxe/1.JPG",
+      "assets/img/room/deluxe/2.JPG",
+      "assets/img/room/deluxe/3.JPG",
+      "assets/img/room/deluxe/4.JPG",
+      "assets/img/room/deluxe/5.JPG",
+      "assets/img/room/deluxe/6.JPG"
+    ],
+    "text": "Relaxation and luxury intertwined in Hotel Ganga Addara's 15 Super-Deluxe rooms that range from double, triple and family rooms that allow guests an excellent rest to call their own.",
+    "longdesc": "<p>Relaxation and luxury intertwined in Hotel Ganga Addara's 15 Super-Deluxe rooms that range from double, triple and family rooms that allow guests an excellent rest to call their own.</p>",
+    "authors": [3, 4],
+    "amenities": [
+      {
+        "title": "A/C Rooms",
+        "icon": "fas fa-temperature-low"
+      },
+      {
+        "title": "High-speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Security Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Continental Breakfast",
+        "icon": "fas fa-utensils"
+      },
+      {
+        "title": "Cable TV",
+        "icon": "fal fa-tv"
+      },
+      {
+        "title": "Riverside View",
+        "icon": "fas fa-binoculars"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Bathrobes",
+        "icon": "fas fa-tshirt"
+      },
+      {
+        "title": "Tea/Coffee Making Set",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Mini-Fridge",
+        "icon": "fas fa-igloo"
+      },
+      {
+        "title": "Hot Water",
+        "icon": "fas fa-hot-tub"
+      },
+      {
+        "title": "Hair Dryer",
+        "icon": "fas fa-wind"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": [31.53912, -89.29163],
+    "offer": true
+  },
+  {
+    "id": 3,
+    "title": "Super Deluxe - Family",
+    "price": 355,
+    "period": "Night",
+    "category": [2],
+    "gridimage": "assets/img/room/selected_family_room.JPG",
+    "listimage": "assets/img/room/selected_family_room.JPG",
+    "sliderimage": "assets/img/room/selected_family_room.JPG",
+    "detailPictures": [
+      "assets/img/room/deluxe-family/1.JPG",
+      "assets/img/room/deluxe-family/2.JPG",
+      "assets/img/room/deluxe-family/3.JPG",
+      "assets/img/room/deluxe-family/4.JPG",
+      "assets/img/room/deluxe-family/5.JPG",
+      "assets/img/room/deluxe-family/6.JPG"
+    ],
+    "text": "Relaxation and luxury intertwined in Hotel Ganga Addara's 15 Super-Deluxe rooms that range from double, triple and family rooms that allow guests an excellent rest to call their own.",
+    "longdesc": "<p>Relaxation and luxury intertwined in Hotel Ganga Addara's 15 Super-Deluxe rooms that range from double, triple and family rooms that allow guests an excellent rest to call their own.</p>",
+    "authors": [3, 4],
+    "amenities": [
+      {
+        "title": "A/C Rooms",
+        "icon": "fas fa-temperature-low"
+      },
+      {
+        "title": "High-speed WiFi",
+        "icon": "fal fa-wifi"
+      },
+      {
+        "title": "Security Locker",
+        "icon": "fal fa-key"
+      },
+      {
+        "title": "Continental Breakfast",
+        "icon": "fas fa-utensils"
+      },
+      {
+        "title": "Cable TV",
+        "icon": "fal fa-tv"
+      },
+      {
+        "title": "Riverside View",
+        "icon": "fas fa-binoculars"
+      },
+      {
+        "title": "Cleaning",
+        "icon": "fal fa-broom"
+      },
+      {
+        "title": "Bathrobes",
+        "icon": "fas fa-tshirt"
+      },
+      {
+        "title": "Tea/Coffee Making Set",
+        "icon": "fal fa-shopping-basket"
+      },
+      {
+        "title": "Mini-Fridge",
+        "icon": "fas fa-igloo"
+      },
+      {
+        "title": "Hot Water",
+        "icon": "fas fa-hot-tub"
+      },
+      {
+        "title": "Hair Dryer",
+        "icon": "fas fa-wind"
+      }
+    ],
+    "rules": [
+      "No smoking, parties or events.",
+      "Check-in time from 2 PM, check-out by 10 AM.",
+      "Time to time car parking",
+      "Download Our minimal app",
+      "Browse regular our website"
+    ],
+    "cancellation": "Phasellus volutpat neque a tellus venenatis, a euismod augue facilisis. Fusce ut metus mattis, consequat metus nec, luctus lectus. Pellentesque orci quis hendrerit sed eu dolor. <strong>Cancel up</strong> to <strong>14 days</strong> to get a full refund.",
+    "location": [31.53912, -89.29163],
+    "offer": true
+  }
+]

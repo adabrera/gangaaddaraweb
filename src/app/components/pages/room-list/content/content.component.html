@@ -1,0 +1,40 @@
+<section class="room-section room-list-style pt-120 pb-120">
+    <div class="container">
+        <div class="room-list-loop">
+            <div class="room-box mb-30" *ngFor="let item of rooms | paginate: { itemsPerPage: 3, currentPage: page }">
+                <div class="row no-gutters justify-content-center">
+                    <div class="col-lg-5 col-md-10">
+                        <div class="room-img-wrap">
+                            <div class="room-img" [style.background-image]="'url('+item.listimage+')'"></div>
+                        </div>
+                    </div>
+                    <div class="col-lg-7 col-md-10">
+                        <div class="room-desc">
+                            <div class="row align-items-center">
+                                <div class="col-sm-8">
+                                    <ul class="icons">
+                                        <li *ngFor="let item of item.amenities | slice:0:7"><i [class]="item.icon"></i></li>
+                                    </ul>
+                                    <h4 class="title"><a routerLink="/room-details/{{item.id}}">{{item.title}}</a></h4>
+
+                                    <p>{{item.text}}...</p>
+                                </div>
+                                <!-- <div class="col-sm-4">
+                                    <div class="text-sm-center">
+                                        <span class="price">${{item.price | number:'1.0-0'}}<span>/{{item.period}}</span> </span>
+                                        <a routerLink="/room-details/{{item.id}}" class="book-btn">Booking Now</a>
+                                    </div>
+                                </div> -->
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- <div class="pagination-wrap">
+            <pagination-controls (pageChange)="page = $event" responsive="true"
+            previousLabel="<<"
+            nextLabel=">>"></pagination-controls>
+        </div> -->
+    </div>
+</section>

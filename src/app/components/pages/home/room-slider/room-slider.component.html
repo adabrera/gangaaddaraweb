@@ -1,0 +1,31 @@
+<section class="room-slider">
+    <div class="container-fluid p-0">
+        <ngx-slick-carousel #slickModal="slick-carousel" [config]="settings" class="row rooms-slider-one">
+            <div ngxSlickItem class="col" *ngFor="let item of rooms | slice:0:5">
+                <div class="slider-img" [style.background-image]="'url('+item.sliderimage+')'">
+                </div>
+            </div>
+        </ngx-slick-carousel>
+    </div>
+    <div class="rooms-content-wrap">
+        <div class="container">
+            <div class="row justify-content-center justify-content-md-start">
+                <div class="col-xl-4 col-lg-5 col-sm-8">
+                    <div class="room-content-box">
+                        <div class="slider-count"></div>
+                        <div class="slider-count-big"></div>
+                        <ngx-slick-carousel #slickModal="slick-carousel" [config]="settingsThumb" class="room-content-slider">
+                            <div ngxSlickItem class="single-content" *ngFor="let item of rooms | slice:0:5">
+                                <div class="icon" *ngFor="let cat of getCategories(item.category) | slice:0:1">
+                                    <i [class]="cat.icon"></i>
+                                </div>
+                                <h3 *ngFor="let cat of getCategories(item.category) | slice:0:1"><a routerLink="/room-details/{{item.id}}">{{cat.title}}</a></h3>
+                                <p>{{item.text | slice:0:100}}...</p>
+                            </div>
+                        </ngx-slick-carousel>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

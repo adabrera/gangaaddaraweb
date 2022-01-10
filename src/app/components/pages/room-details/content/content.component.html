@@ -1,0 +1,69 @@
+<section class="room-details pt-20 pb-90" *ngFor="let item of roomdetails">
+  <div class="container">
+    <div class="row">
+      <!-- details -->
+      <div class="col-lg-8">
+        <div class="deatils-box">
+          <div class="title-wrap">
+            <div class="title">
+              <div class="room-cat" *ngFor="let category of getCategories(item.category) | slice:0:1">{{category.title}}
+              </div>
+              <h2>{{item.title}}</h2>
+            </div>
+          </div>
+          <div class="container">
+            <div class="gallery-loop">
+              <div class="single-gallery-image" *ngFor="let imgSrc of item.detailPictures">
+                <a href="{{imgSrc}}" class="popup-image">
+                  <img [src]="imgSrc" alt="Images">
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="room-fearures clearfix mt-60 mb-60">
+            <h3 class="subtitle">Amenities</h3>
+            <ul class="room-fearures-list">
+              <li *ngFor="let item of item.amenities"><i [class]="item.icon"></i>{{item.title}}</li>
+            </ul>
+          </div>
+          <div [innerHtml]="item.longdesc"></div>
+
+          <!-- <div class="room-rules clearfix mb-60">
+                        <h3 class="subtitle">House Rules</h3>
+                        <ul class="room-rules-list">
+                            <li *ngFor="let text of item.rules">{{text}}</li>
+                        </ul>
+                    </div>
+                    <div class="cancellation-box clearfix mb-60">
+                        <h3 class="subtitle">Cancellation</h3>
+                        <p [innerHtml]="item.cancellation"></p>
+                    </div> -->
+          <!-- <agm-map class="room-map mb-60" id="roomMap" [latitude]="item.location[0]" [longitude]="item.location[1]" [zoom]="zoom">
+                        <agm-marker [latitude]="item.location[0]" [longitude]="item.location[1]"></agm-marker>
+                    </agm-map> -->
+          <!-- <div class="related-room mt-60">
+                        <h3 class="subtitle">Related Rooms</h3>
+                        <div class="row room-gird-loop">
+                            <div class="col-lg-6 col-sm-6" *ngFor="let room of getRoomByCategory(item.category) | slice:0:2">
+                                <div class="room-box mb-30">
+                                    <div class="room-img-wrap">
+                                        <div class="room-img" [style.background-image]="'url('+room.gridimage+')'"></div>
+                                    </div>
+                                    <div class="room-desc">
+                                        <ul class="icons">
+                                            <li *ngFor="let room of room.amenities | slice:0:7"><i [class]="room.icon"></i></li>
+                                        </ul>
+                                        <h4 class="title"><a routerLink="/room-details/{{room.id}}">{{room.title}}</a></h4>
+                                        <p>{{room.text | slice:0:75}}...</p>
+                                        <span class="price">${{room.price | number:'1.0-0'}}/{{room.period}}</span>
+                                        <a routerLink="/room-details/{{room.id}}" class="book-btn">Booking Now</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div> -->
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

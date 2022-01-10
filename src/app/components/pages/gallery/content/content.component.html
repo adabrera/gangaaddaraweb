@@ -1,0 +1,11 @@
+<section class="gallery-wrappper pt-120 pb-120">
+    <div class="container">
+        <div class="gallery-loop">
+            <div class="single-gallery-image" *ngFor="let item of gallery">
+                <a href="{{item.img}}" class="popup-image">
+                    <img [src]="item.img" alt="Images">
+                </a>
+            </div>
+        </div>
+    </div>
+</section>

@@ -1,0 +1,20 @@
+<section class="about-section pt-115 pb-115">
+    <div class="container">
+        <div class="down-arrow-wrap text-center">
+            <a href="#" class="down-arrow"><i class="fal fa-arrow-down"></i></a>
+        </div>
+        <div class="section-title about-title text-center mb-20">
+            <span class="title-tag">since <span>1994</span></span>
+            <h2>Situated In Prime Position At The Foot Of The Slopes Of Courchevel Moriond.</h2>
+        </div>
+        <ul class="about-features masonry-layout">
+            <li *ngFor="let item of category | slice:0:5">
+                <a routerLink="/">
+                    <i [class]="item.icon"></i>
+                    <i class="hover-icon {{item.icon}}"></i>
+                    <span class="title">{{item.title}}</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</section>

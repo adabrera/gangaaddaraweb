@@ -1,0 +1,100 @@
+<section class="blog-section pt-120 pb-120">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-8 col-md-10">
+                <div class="blog-loop">
+                    <div class="post-box mb-40"
+                        *ngFor="let item of blogpost | paginate: { itemsPerPage: 4, currentPage: page }">
+                        <!-- Standard -->
+                        <div class="post-media" *ngIf="item.format === 'standard' || item.format === ''">
+                            <img [src]="item.listimg" [alt]="item.title">
+                        </div>
+                        <!-- video -->
+                        <div class="post-media with-video" *ngIf="item.format === 'video' && item.video != '' ">
+                            <img [src]="item.listimg" [alt]="item.title">
+                            <a href="{{item.video}}" class="play-icon popup-video"><i class="fas fa-play"></i></a>
+                        </div>
+                        <!-- Gallery -->
+                        <ngx-slick-carousel #slickModal="slick-carousel" [config]="settings"
+                            class="post-media post-gallery" *ngIf="item.format === 'gallery' && item.gallery != [] ">
+                            <div ngxSlickItem class="post-gallery" *ngFor="let image of item.gallery">
+                                <img [src]="image" [alt]="item.title">
+                            </div>
+                        </ngx-slick-carousel>
+                        <!-- Audio -->
+                        <div class="post-media sound-cloud-post" *ngIf="item.format === 'audio' && item.audio != '' ">
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe class="embed-responsive-item" [src]="sanitnizeAudioURL(item.audio)"></iframe>
+                            </div>
+                        </div>
+                        <!-- Quote -->
+                        <div class="post-media quote-post" *ngIf="item.format === 'quote' && item.quote != ''">
+                            <div class="post-desc">
+                                <h2>
+                                    <a href="#">{{item.quote}}</a>
+                                </h2>
+                                <ul class="post-meta">
+                                    <li><a routerLink="/blog-details/{{item.id}}"><i class="far fa-eye"></i>{{item.views}}
+                                            Views</a></li>
+                                    <li><a routerLink="/blog-details/{{item.id}}"><i
+                                                class="far fa-comments"></i>{{item.reviews.length}} Comments</a></li>
+                                    <li><a routerLink="/blog-details/{{item.id}}"><i
+                                                class="far fa-calendar-alt"></i>{{item.postdate}}</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Link -->
+                        <div class="post-media quote-post post-link" *ngIf="item.format === 'link' && item.link != ''">
+                            <div class="post-desc">
+                                <h2>
+                                    <a routerLink="/blog-details/{{item.id}}">{{item.title}}</a>
+                                </h2>
+                                <ul class="post-meta">
+                                    <li><a href="{{item.link}}"><i class="far fa-link"></i>{{item.link}}</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                        <!-- Description box -->
+                        <div class="post-desc">
+                            <a routerLink="/blog/cat/{{cat.id}}" class="cat"
+                                *ngFor="let cat of getCategories(item.categories)">{{cat.title}}</a>
+                            <h2>
+                                <a routerLink="/blog-details/{{item.id}}">{{item.title}}</a>
+                            </h2>
+                            <ul class="post-meta">
+                                <li><a routerLink="/blog-details/{{item.id}}"><i class="far fa-eye"></i>{{item.views}}
+                                        Views</a></li>
+                                <li><a routerLink="/blog-details/{{item.id}}"><i
+                                            class="far fa-comments"></i>{{item.reviews.length}} Comments</a></li>
+                                <li><a routerLink="/blog-details/{{item.id}}"><i
+                                            class="far fa-calendar-alt"></i>{{item.postdate}}</a></li>
+                            </ul>
+                            <p>{{item.shortdesc}}</p>
+                            <div class="post-footer">
+                                <div class="author" *ngFor="let author of getAuthor(item.author)">
+                                    <a routerLink="/blog/user/{{author.id}}">
+                                        <img [src]="author.img" [alt]="author.name">
+                                        by {{author.name}}
+                                    </a>
+                                </div>
+                                <div class="read-more">
+                                    <a routerLink="/blog-details/{{item.id}}"><i class="far fa-arrow-right"></i>Read
+                                        More</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="pagination-wrap">
+                    <pagination-controls (pageChange)="page = $event" responsive="true" previousLabel="<<"
+                        nextLabel=">>">
+                    </pagination-controls>
+                </div>
+            </div>
+            <!-- Blog Sidebar -->
+            <div class="col-lg-4 col-md-8 col-sm-10">
+                <app-blog-sidebar></app-blog-sidebar>
+            </div>
+        </div>
+    </div>
+</section>

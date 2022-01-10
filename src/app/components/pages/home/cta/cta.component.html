@@ -1,0 +1,34 @@
+<section class="cta-section pt-115 pb-160">
+    <div class="container">
+        <div class="cta-inner">
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-md-8 col-sm-9 col-10 order-2 order-lg-1">
+                    <div class="cta-text">
+                        <div class="section-title mb-20">
+                            <span class="title-tag">call to action</span>
+                            <h2>The Thin Escape</h2>
+                        </div>
+                        <p>Miranda has everything for your trip
+                            & every single things.</p>
+                        <a routerLink="/contact" class="main-btn btn-filled">take a tour</a>
+                    </div>
+                </div>
+                <div class="col-lg-6 col-md-10 col-sm-11 col-10 order-1 order-lg-2">
+                    <!-- feature box -->
+                    <div class="cta-features">
+                        <div class="single-feature" *ngFor="let item of cta;let i = index">
+                            <div class="icon">
+                                <i [class]="item.icon"></i>
+                            </div>
+                            <div class="cta-desc">
+                                <h3><a href="#">{{item.title}}</a></h3>
+                                <p>{{item.shortdesc}}</p>
+                                <span class="count">0{{1 + i}}</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

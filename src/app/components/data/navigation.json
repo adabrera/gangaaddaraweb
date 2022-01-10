@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "linkText": "Home",
+    "child": false,
+    "link": "/"
+  },
+  {
+    "id": 2,
+    "linkText": "Accommodation",
+    "link": "/room-list",
+    "child": false
+  },
+  {
+    "id": 3,
+    "linkText": "Gallery",
+    "link": "/gallery",
+    "child": false
+  },
+  {
+    "id": 4,
+    "linkText": "Events",
+    "child": true,
+    "submenu": [
+      {
+        "id": 31,
+        "link": "/blog",
+        "linkText": "News"
+      },
+      {
+        "id": 32,
+        "link": "/blog-standard",
+        "linkText": "News Standard"
+      },
+      {
+        "id": 33,
+        "link": "/blog-details/1",
+        "linkText": "News Details"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "linkText": "Contact Us",
+    "link": "/contact"
+  },
+  {
+    "id": 6,
+    "linkText": "Events",
+    "child": true,
+    "submenu": [
+      {
+        "id": 31,
+        "link": "/blog",
+        "linkText": "News"
+      },
+      {
+        "id": 32,
+        "link": "/blog-standard",
+        "linkText": "News Standard"
+      },
+      {
+        "id": 33,
+        "link": "/blog-details/1",
+        "linkText": "News Details"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "linkText": "About Us",
+    "link": "/about",
+    "child": false
+  }
+]

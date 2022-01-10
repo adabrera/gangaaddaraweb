@@ -1,0 +1,28 @@
+<section class="latest-news pt-115 pb-115">
+    <div class="container">
+        <div class="section-title text-center">
+            <span class="title-tag">Blog</span>
+            <h2>News Feeds</h2>
+        </div>
+        <!-- Latest post loop -->
+        <div class="row justify-content-center mt-50">
+            <div class="col-lg-4 col-sm-6" *ngFor="let item of blogpost | slice:0:3">
+                <div class="latest-post-box mt-30">
+                    <div class="post-img" [style.background-image]="'url('+item.gridimg+')'"></div>
+                    <div class="post-desc">
+                        <ul class="post-meta">
+                            <li>
+                                <a routerLink="/blog-details/{{item.id}}"><i class="fal fa-calendar-alt"></i>{{item.postdate}}</a>
+                            </li>
+                            <li *ngFor="let author of getAuthor(item.author)">
+                                <a routerLink="/blog/user/{{author.id}}"><i class="fal fa-user"></i>By {{author.name}}</a>
+                            </li>
+                        </ul>
+                        <h4><a routerLink="/blog-details/{{item.id}}">{{item.title}}</a></h4>
+                        <p>{{item.shortdesc | slice:0:100}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

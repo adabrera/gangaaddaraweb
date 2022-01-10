@@ -1,0 +1,54 @@
+<section class="menu-area bg-white menu-with-shape menu-nagative-gallery">
+    <div class="container">
+        <!-- section title -->
+        <div class="row align-items-center">
+            <div class="col-md-8 col-sm-8">
+                <div class="section-title">
+                    <span class="title-tag">Menu</span>
+                    <h2>Our Foods Menu</h2>
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-4 d-none d-sm-block">
+                <div class="menu-slider-arrow arrow-style text-right">
+                    <div class="slick-arrow prev-arrow"><i class="fal fa-arrow-left"></i></div>
+                    <div class="slick-arrow next-arrow"><i class="fal fa-arrow-right"></i></div>
+                </div>
+            </div>
+        </div>
+        <!-- Menu Slider -->
+        <ngx-slick-carousel #slickModal="slick-carousel" [config]="settings"
+            class="menu-slider mt-80 menu-loop single-slider row">
+            <div ngxSlickItem class="col-lg-12" *ngFor="let row of menuslidepost; let i = index">
+                <div class="single-menu-box hover-drak" *ngFor="let item of menuslidepost[i]">
+                    <div class="menu-img" [style.background-image]="'url('+item.img+')'">
+                    </div>
+                    <div class="menu-desc">
+                        <h4><a href="#">{{item.title}}</a></h4>
+                        <p>{{item.shortdesc}}</p>
+                        <a href="#" class="menu-link"><i class="fal fa-long-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </ngx-slick-carousel>
+    </div>
+    <!-- Gallery -->
+    <div class="gallery-wrap">
+        <div class="container">
+            <ngx-slick-carousel #slickModal="slick-carousel" [config]="gallerySettings"
+                class="row gallery-slider text-center">
+                <div ngxSlickItem class="col-lg-12" *ngFor="let item of gallery">
+                    <a href="#" class="gallery-popup">
+                        <img [src]="item.img" alt="img">
+                    </a>
+                </div>
+            </ngx-slick-carousel>
+        </div>
+    </div>
+    <!-- Shape -->
+    <div class="shape-one">
+        <img src="assets/img/icon/05.png" alt="icon">
+    </div>
+    <div class="shape-two">
+        <img src="assets/img/icon/06.png" alt="icon">
+    </div>
+</section>

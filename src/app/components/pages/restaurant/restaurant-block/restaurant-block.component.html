@@ -1,0 +1,28 @@
+<section class="restaurant-tab-area pt-120 pb-90">
+    <div class="container">
+        <ul class="restaurant-rood-list row justify-content-center nav nav-pills mb-30">
+            <li class="nav-item col-lg-2 col-md-3 col-sm-4 col-6" *ngFor="let item of categories">
+                <a class="nav-link" href="javascript:void(0)" (click)="filterItemsByCategory(item)">
+                    <i [class]="item.icon"></i>
+                    <span class="title">{{item.title}}</span>
+                </a>
+            </li>
+        </ul>
+        <!-- tab content -->
+        <div class="row">
+            <div class="col-lg-3 col-6" *ngFor="let item of filteredItems">
+                <div class="food-box">
+                    <div class="thumb">
+                        <img [src]="item.img" [alt]="item.title">
+                        <span class="price">${{item.price | number:'1.2-2'}}</span>
+                    </div>
+                    <div class="desc">
+                        <a href="#" class="cat" *ngFor="let cat of getCategories(item.category)">{{cat.title}}, </a>
+                        <h4>{{item.title}}</h4>
+                        <a href="#" class="link"><i class="fal fa-arrow-right"></i></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section> 

@@ -1,0 +1,82 @@
+<header class="header-absolute sticky-header {{layout}}" id="can-sticky">
+    <div class="container container-custom-one">
+        <div class="nav-container d-flex align-items-center justify-content-between"
+            [ngClass]="visible ? '' : 'breakpoint-on'" (window:resize)="detectHeader()">
+            <!-- Main Menu -->
+            <div class="nav-menu d-lg-flex align-items-center" [ngClass]="navmethod ? '' : 'menu-on'">
+
+                <!-- Navbar Close Icon -->
+                <div class="navbar-close" (click)="toggleNav()">
+                    <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                </div>
+
+                <!-- Off canvas Menu  -->
+                <!-- <div class="toggle" (click)="canvasToggle()">
+                    <a href="javascript:void(0)" id="offCanvasBtn"><i class="fal fa-bars"></i></a>
+                </div> -->
+                <!-- Mneu Items -->
+                <div class="menu-items">
+                    <ul>
+                        <li class="menu-item" [ngClass]="item.child == true ? 'menu-item-has-children' : ''"
+                            *ngFor="let item of navigation | slice:0:5">
+                            <a href="javascript:void(0)" (click)="trigger(item)"
+                                *ngIf="item.child">{{item.linkText}}</a>
+                            <a routerLink="{{item.link}}" *ngIf="!item.child">{{item.linkText}}</a>
+                            <ul class="submenu" *ngIf="item.child" [ngClass]="item.open ? 'd-block' : ''">
+                                <li class="menu-item" [ngClass]="item.child == true ? 'menu-item-has-children' : ''"
+                                    *ngFor="let item of item.submenu">
+                                    <a href="javascript:void(0)" (click)="trigger(item)"
+                                        *ngIf="item.child">{{item.linkText}}</a>
+                                    <a routerLink="{{item.link}}" *ngIf="!item.child">{{item.linkText}}</a>
+                                    <ul class="submenu" *ngIf="item.child" [ngClass]="item.open ? 'd-block' : ''">
+                                        <li class="menu-item" *ngFor="let item of item.submenu">
+                                            <a routerLink="{{item.link}}">{{item.linkText}}</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+                <!-- from pushed-item -->
+                <div class="nav-pushed-item"></div>
+            </div>
+            <!-- Site Logo -->
+            <div class="site-logo">
+                <a routerLink="/"><img src="assets/img/logo.png" alt="logo"></a>
+            </div>
+            <!-- Header Info Pussed To Menu Wrap -->
+            <div class="nav-push-item" [ngClass]="visible ? '' : 'd-none'" (window:resize)="detectHeader()">
+                <!-- Header Info -->
+                <div class="header-info d-lg-flex align-items-center">
+                    <div class="item">
+                        <i class="fal fa-phone"></i>
+                        <span>Phone Number</span>
+                        <a href="tel:+94773359431">
+                            <h5 class="title">+94 77 335 9431</h5>
+                        </a>
+                    </div>
+                    <div class="item">
+                        <i class="fal fa-envelope"></i>
+                        <span>Email Address</span>
+                        <a href="mailto:info@hotelgangaaddara.com">
+                            <h5 class="title">info@hotelgangaaddara.com</h5>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <!-- Navbar Toggler -->
+            <div class="navbar-toggler" [ngClass]="navmethod ? '' : 'active'" (click)="toggleNav()">
+                <span></span><span></span><span></span>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- Canvas -->
+<!-- <div class="offcanvas-wrapper" [ngClass]="canvasmethod ? '' : 'show-offcanvas'">
+    <div class="offcanvas-overly" [ngClass]="canvasmethod ? '' : 'show-overly'" (click)="canvasToggle()"></div>
+    <div class="offcanvas-widget">
+        <a href="javascript:void(0)" class="offcanvas-close" (click)="canvasToggle()"><i class="fal fa-times"></i></a>
+        <app-canvas></app-canvas>
+    </div>
+</div> -->

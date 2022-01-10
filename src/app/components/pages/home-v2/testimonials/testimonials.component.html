@@ -1,0 +1,22 @@
+<section class="testimonial-section pb-115 pt-115">
+    <div class="container">
+        <div class="section-title text-center mb-80">
+            <span class="title-tag">testimonials</span>
+            <h2>Client Feedback</h2>
+        </div>
+        <!-- testimonials loop  -->
+        <ngx-slick-carousel #slickModal="slick-carousel" [config]="settings" class="row testimonial-slider">
+            <div ngxSlickItem class="col-lg-12" *ngFor="let item of testimonials">
+                <div class="testimonial-box">
+                    <div class="client-img">
+                        <img [src]="item.img" [alt]="item.name">
+                        <span class="check"><i class="fal fa-check"></i></span>
+                    </div>
+                    <h3>{{item.name}}</h3>
+                    <span class="clinet-post">{{item.designation}}</span>
+                    <p>{{item.shotdesc}}</p>
+                </div>
+            </div>
+        </ngx-slick-carousel>
+    </div>
+</section>

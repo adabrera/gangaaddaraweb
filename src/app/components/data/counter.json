@@ -1,0 +1,30 @@
+[
+    {
+        "id":1,
+        "icon": "assets/img/icon/01.png",
+        "count": 84,
+        "prefix": "k",
+        "title": "Projects are Completed"
+    },
+    {
+        "id":2,
+        "icon": "assets/img/icon/02.png",
+        "count": 10,
+        "prefix": "M",
+        "title": "Active Backers Around World"
+    },
+    {
+        "id":3,
+        "icon": "assets/img/icon/03.png",
+        "count": 2,
+        "prefix": "k",
+        "title": "Categories Served"
+    },
+    {
+        "id":4,
+        "icon": "assets/img/icon/04.png",
+        "count": 100,
+        "prefix": "M",
+        "title": "Ideas Raised Funds"
+    }
+]

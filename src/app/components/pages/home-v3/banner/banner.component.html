@@ -1,0 +1,26 @@
+<ngx-slick-carousel #slickModal="slick-carousel" [config]="settings" class="banner-area banner-style-three"
+    id="bannerSlider">
+    <div ngxSlickItem class="single-banner d-flex align-items-center justify-content-center" *ngFor="let item of bannerPosts">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="banner-content">
+                        <span class="promo-tag">{{item.tag}}</span>
+                        <h1 class="title" [innerHtml]="item.title"></h1>
+                        <ul>
+                            <li>
+                                <a class="main-btn btn-filled" routerLink="/room-details/">take a tour</a>
+                            </li>
+                            <li>
+                                <a class="main-btn btn-border" routerLink="/about">Learn More</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- banner bg -->
+        <div class="banner-bg" [style.background-image]="'url('+item.img+')'"></div>
+        <div class="banner-overly"></div>
+    </div>
+</ngx-slick-carousel>

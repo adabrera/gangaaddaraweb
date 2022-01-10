@@ -1,0 +1,27 @@
+<section class="feature-room-section with-bg pt-155 pb-115" [style.background-image]="'url(assets/img/bg/06.jpg)'">
+    <div class="container">
+        <div class="section-title white-color text-center">
+            <span class="title-tag">popular list</span>
+            <h2>Popular Rooms</h2>
+        </div>
+        <!-- Room Looop -->
+        <div class="row room-gird-loop justify-content-center mt-30">
+            <div class="col-lg-4 col-sm-6" *ngFor="let item of rooms | slice:0:3">
+                <div class="room-box mt-30">
+                    <div class="room-img-wrap">
+                        <div class="room-img" [style.background-image]="'url('+item.gridimage+')'"></div>
+                    </div>
+                    <div class="room-desc">
+                        <ul class="icons">
+                            <li *ngFor="let item of item.amenities | slice:0:7"><i [class]="item.icon"></i></li>
+                        </ul>
+                        <h4 class="title"><a routerLink="/room-details/{{item.id}}">{{item.title}}</a></h4>
+                        <p>{{item.text | slice:0:75}}...</p>
+                        <span class="price">${{item.price | number:'1.0-0'}}/{{item.period}}</span>
+                        <a routerLink="/room-details/{{item.id}}" class="book-btn">Booking Now</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

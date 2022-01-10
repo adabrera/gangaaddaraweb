@@ -1,0 +1,30 @@
+<section class="latest-news pt-120 pb-120 pagination-content">
+    <div class="container">
+        <div class="row justify-content-center room-gird-loop">
+            <div class="col-lg-4 col-sm-6"
+                *ngFor="let item of blogpost | paginate: { itemsPerPage: 6, currentPage: page }">
+                <div class="latest-post-box mb-40">
+                    <div class="post-img" [style.background-image]="'url('+item.gridimg+')'"></div>
+                    <div class="post-desc">
+                        <!-- <ul class="post-meta">
+                            <li>
+                                <a routerLink="/blog-details/{{item.id}}"><i
+                                        class="fal fa-calendar-alt"></i>{{item.postdate}}</a>
+                            </li>
+                            <li *ngFor="let author of getAuthor(item.author)">
+                                <a routerLink="/blog/user/{{author.id}}"><i class="fal fa-user"></i>By
+                                    {{author.name}}</a>
+                            </li>
+                        </ul> -->
+                        <h4><a routerLink="/blog-details/{{item.id}}">{{item.title}}</a></h4>
+                        <p>{{item.shortdesc | slice:0:100}}</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="pagination-wrap">
+            <pagination-controls (pageChange)="page = $event" responsive="true" previousLabel="<<" nextLabel=">>">
+            </pagination-controls>
+        </div>
+    </div>
+</section>

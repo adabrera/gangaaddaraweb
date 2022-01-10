@@ -1,0 +1,46 @@
+[
+    {
+        "id": 1,
+        "img": "assets/img/restu/01.jpg",
+        "category": [
+            1,
+            3,
+            5
+        ],
+        "title": "Roasted Lamb",
+        "price": 82
+    },
+    {
+        "id": 2,
+        "img": "assets/img/restu/02.jpg",
+        "category": [
+            2,
+            4,
+            6
+        ],
+        "title": "Shrimp Noodles",
+        "price": 50
+    },
+    {
+        "id": 3,
+        "img": "assets/img/restu/03.jpg",
+        "category": [
+            1,
+            3,
+            5
+        ],
+        "title": "Sparkling Water",
+        "price": 90
+    },
+    {
+        "id": 4,
+        "img": "assets/img/restu/04.jpg",
+        "category": [
+            2,
+            4,
+            6
+        ],
+        "title": "Waldorf salad",
+        "price": 80
+    }
+]

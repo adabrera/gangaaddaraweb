@@ -1,0 +1,38 @@
+<section class="latest-news pt-115 pb-115">
+    <div class="container">
+        <div class="row align-items-center">
+            <div class="col-lg-6 col-md-8 col-sm-7">
+                <div class="section-title">
+                    <span class="title-tag">Blog</span>
+                    <h2>News Feeds</h2>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-4 col-sm-5 d-none d-sm-block">
+                <div class="latest-post-arrow arrow-style text-right">
+                    <div class="slick-arrow prev-arrow"><i class="fal fa-arrow-left"></i></div>
+                    <div class="slick-arrow next-arrow"><i class="fal fa-arrow-right"></i></div>
+                </div>
+            </div>
+        </div>
+        <!-- Latest post loop -->
+        <ngx-slick-carousel #slickModal="slick-carousel" [config]="settings" class="row latest-post-slider mt-80">
+            <div ngxSlickItem class="col-lg-12" *ngFor="let item of blogpost">
+                <div class="latest-post-box">
+                    <div class="post-img" [style.background-image]="'url('+item.gridimg+')'"></div>
+                    <div class="post-desc">
+                        <ul class="post-meta">
+                            <li>
+                                <a routerLink="/blog-details/{{item.id}}"><i class="fal fa-calendar-alt"></i>{{item.postdate}}</a>
+                            </li>
+                            <li *ngFor="let author of getAuthor(item.author)">
+                                <a routerLink="/blog/user/{{author.id}}"><i class="fal fa-user"></i>By {{author.name}}</a>
+                            </li>
+                        </ul>
+                        <h4><a routerLink="/blog-details/{{item.id}}">{{item.title}}</a></h4>
+                        <p>{{item.shortdesc | slice:0:100}}</p>
+                    </div>
+                </div>
+            </div>
+        </ngx-slick-carousel>
+    </div>
+</section>

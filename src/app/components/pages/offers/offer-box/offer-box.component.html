@@ -1,0 +1,37 @@
+<section class="offers-area pt-120 pb-60">
+    <div class="container">
+        <div class="offer-boxes-loop">
+            <div class="offer-box" *ngFor="let item of getOffer()">
+                <div class="thumb">
+                    <img [src]="item.listimage" class="w-100" alt="item.title">
+                </div>
+                <div class="offer-desc">
+                    <div class="title-wrap">
+                        <div class="title">
+                            <span class="room-cat" *ngFor="let category of getCategories(item.category) | slice:0:1">{{category.title}}</span>
+                            <h2>{{item.title}}</h2>
+                        </div>
+                        <div class="price">
+                            ${{item.price | number:'1.0-0'}}<span>/{{item.period}}</span>
+                        </div>
+                    </div>
+                    <div class="row justify-content-between">
+                        <div class="col-lg-6">
+                            <div class="offer-text">
+                                <p>{{item.text}}</p>
+                                <a routerLink="/room-details/{{item.id}}" class="main-btn btn-filled">Book now</a>
+                            </div>
+                        </div>
+                        <div class="col-lg-5">
+                            <div class="offer-feature">
+                                <ul>
+                                    <li *ngFor="let item of item.amenities | slice:0:10"><i [class]="item.icon"></i>{{item.title}}</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

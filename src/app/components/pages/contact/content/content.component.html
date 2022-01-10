@@ -1,0 +1,100 @@
+<section class="contact-part pt-115 pb-115">
+    <div class="container">
+        <!-- Contact Info -->
+        <div class="contact-info">
+            <div class="row justify-content-center">
+                <div class="col-lg-4 col-sm-6 col-10">
+                    <div class="info-box">
+                        <div class="icon">
+                            <i class="flaticon-home"></i>
+                        </div>
+                        <div class="desc">
+                            <h4>Address</h4>
+                            <p>Deveni Rajasinghe Mawatha, Kandy 20000, Sri Lanka</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-10">
+                    <div class="info-box">
+                        <div class="icon">
+                            <i class="flaticon-phone"></i>
+                        </div>
+                        <div class="desc">
+                            <h4>Phone Number</h4>
+                            <p>+ 94 77 335 9431</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 col-10">
+                    <div class="info-box">
+                        <div class="icon">
+                            <i class="flaticon-message"></i>
+                        </div>
+                        <div class="desc">
+                            <h4>Email Address</h4>
+                            <p>info@hotelgangaaddara.com</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Contact Mapts -->
+        <agm-map class="contact-maps mb-30" id="contactMaps" [latitude]="lat" [longitude]="lng" [zoom]="zoom">
+            <agm-marker [latitude]="lat" [longitude]="lng"></agm-marker>
+        </agm-map>
+        <!-- Contact Form
+        <div class="contact-form mt-30">
+            <form (ngSubmit)="onSubmit()" #contactForm="ngForm">
+                <div class="row">
+                    <div class="col-md-6">
+                        <div class="input-group mb-30">
+                            <span class="icon"><i class="far fa-user"></i></span>
+                            <input type="text" placeholder="Your full name" name="name" [(ngModel)]="model.name" required>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="input-group mb-30">
+                            <span class="icon"><i class="far fa-envelope"></i></span>
+                            <input type="email" placeholder="Enter email address" name="email" [(ngModel)]="model.email" required>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="input-group mb-30">
+                            <span class="icon"><i class="far fa-phone"></i></span>
+                            <input type="text" placeholder="Add phone number" name="phone" [(ngModel)]="model.phone" required>
+                        </div>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="input-group mb-30">
+                            <span class="icon"><i class="far fa-book"></i></span>
+                            <input type="text" placeholder="Select Subject" name="subject" [(ngModel)]="model.subject" required>
+                        </div>
+                    </div>
+                    <div class="col-12">
+                        <div class="input-group textarea mb-30">
+                            <span class="icon"><i class="far fa-pen"></i></span>
+                            <textarea type="text" placeholder="Enter messages" name="message" [(ngModel)]="model.message" required></textarea>
+                        </div>
+                    </div>
+                    <div class="col-12 text-center">
+                        <re-captcha (resolved)="resolved($event)" name="recaptcha" [(ngModel)]="model.recaptcha"
+                        siteKey="6LdxUhMaAAAAAIrQt-_6Gz7F_58S4FlPWaxOh5ib" size="invisible"></re-captcha>
+                        <button type="submit" class="main-btn btn-filled" [disabled]="!contactForm.form.valid">Get Free Quote</button>
+                    </div>
+                    <div class="service-error mt-4 w-100" *ngIf="error">
+                        <ngb-alert type="danger" class="mb-0 w-100 mt-4" [dismissible]="false">
+                            <strong>Oops!</strong> Something bad happened. Please try again later.
+                        </ngb-alert>
+                    </div>
+                    <div [hidden]="!submitted" class="contact-message w-100">
+                        <div *ngIf="model.id" class="contact-success w-100">
+                            <ngb-alert type="success" class="mb-0 w-100 mt-4" [dismissible]="false">
+                                <strong>Success!</strong> Contact form has been successfully submitted.
+                            </ngb-alert>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div> -->
+    </div>
+</section>

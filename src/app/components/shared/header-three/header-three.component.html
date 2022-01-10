@@ -1,0 +1,100 @@
+<header class="header-three">
+    <div class="header-top">
+        <div class="container container-custom-three">
+            <div class="d-md-flex align-items-center justify-content-between">
+                <p class="welcome-text">We Make You Feel Comfortable</p>
+                <ul class="header-top-info">
+                    <li>
+                        <i class="fal fa-Clock"> </i>
+                        Mon - Sat 9.00 - 18.00
+                    </li>
+                    <li>
+                        <i class="fal fa-Clock"> </i>
+                        Mon - Sat 9.00 - 18.00
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="main-menu-area sticky-header" id="can-sticky">
+        <div class="container container-custom-three">
+            <div class="nav-container d-flex align-items-center justify-content-between"
+            [ngClass]="visible ? '' : 'breakpoint-on'" (window:resize)="detectHeader()">
+                <!-- Site Logo -->
+                <div class="site-logo">
+                    <a routerLink="/"><img src="assets/img/logo.png" alt="Logo"></a>
+                </div>
+                <!-- Main Menu -->
+                <div class="nav-menu d-lg-flex align-items-center justify-content-between" [ngClass]="navmethod ? '' : 'menu-on'">
+
+                    <!-- Navbar Close Icon -->
+                    <div class="navbar-close" (click)="toggleNav()">
+                        <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                    </div>
+
+                    <!-- Mneu Items -->
+                    <div class="menu-items">
+                        <ul>
+                            <li class="menu-item" [ngClass]="item.child == true ? 'menu-item-has-children' : ''"
+                                *ngFor="let item of navigation">
+                                <a href="javascript:void(0)" (click)="trigger(item)"
+                                    *ngIf="item.child">{{item.linkText}}</a>
+                                <a routerLink="{{item.link}}" *ngIf="!item.child">{{item.linkText}}</a>
+                                <ul class="submenu" *ngIf="item.child" [ngClass]="item.open ? 'd-block' : ''">
+                                    <li class="menu-item" [ngClass]="item.child == true ? 'menu-item-has-children' : ''"
+                                        *ngFor="let item of item.submenu">
+                                        <a href="javascript:void(0)" (click)="trigger(item)"
+                                            *ngIf="item.child">{{item.linkText}}</a>
+                                        <a routerLink="{{item.link}}" *ngIf="!item.child">{{item.linkText}}</a>
+                                        <ul class="submenu" *ngIf="item.child" [ngClass]="item.open ? 'd-block' : ''">
+                                            <li class="menu-item" *ngFor="let item of item.submenu">
+                                                <a routerLink="{{item.link}}">{{item.linkText}}</a>
+                                            </li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <!-- navbar right content -->
+                <div class="menu-right-buttons">
+                    <!-- Log in icon -->
+                    <div class="login-btn">
+                        <a href="javascript:void(0)" id="loginBtn"><i class="fal fa-user"></i></a>
+                    </div>
+                    <!-- search btton -->
+                    <div class="search">
+                        <a href="javascript:void(0)" class="search-icon" id="searchBtn" [ngClass]="searchmethod ? '' : 'active'" (click)="searchToggle()">
+                            <i class="fal fa-search open-icon"></i>
+                            <i class="fal fa-times close-icon"></i>
+                        </a>
+                        <div class="search-form" [ngClass]="searchmethod ? '' : 'd-block'">
+                            <form>
+                                <input type="text" placeholder="Search your keyword...">
+                                <button type="submit"><i class="far fa-search"></i></button>
+                            </form>
+                        </div>
+                    </div>
+                    <!-- Off canvas Toggle -->
+                    <!-- <div class="toggle" (click)="canvasToggle()">
+                        <a href="javascript:void(0)" id="offCanvasBtn"><i class="fal fa-bars"></i></a>
+                    </div> -->
+                    <!-- Navbar Toggler -->
+                    <div class="navbar-toggler" [ngClass]="navmethod ? '' : 'active'" (click)="toggleNav()">
+                        <span></span><span></span><span></span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- Canvas -->
+<!-- <div class="offcanvas-wrapper" [ngClass]="canvasmethod ? '' : 'show-offcanvas'">
+    <div class="offcanvas-overly" [ngClass]="canvasmethod ? '' : 'show-overly'" (click)="canvasToggle()"></div>
+    <div class="offcanvas-widget">
+        <a href="javascript:void(0)" class="offcanvas-close" (click)="canvasToggle()"><i class="fal fa-times"></i></a>
+        <app-canvas></app-canvas>
+    </div>
+</div> -->

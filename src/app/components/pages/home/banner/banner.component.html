@@ -1,0 +1,33 @@
+<section class="banner-area banner-style-one">
+    <div class="container container-custom-two">
+        <div class="row align-items-center">
+            <div class="col-lg-6 col-md-6">
+                <div class="banner-content">
+                    <span class="promo-tag">The ultimate luxury
+                        experience</span>
+                    <h1 class="title"> The Perfect <br> Base For You
+                    </h1>
+                    <ul>
+                        <li>
+                            <a class="main-btn btn-filled" routerLink="/room-details/1">take a
+                                tour</a>
+                        </li>
+                        <li>
+                            <a class="main-btn btn-border" routerLink="/about">Learn
+                                More</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6 col-md-6">
+                <div class="banner-thumb d-none d-md-block">
+                    <ngx-slick-carousel #slickModal="slick-carousel" [config]="settings" class="hero-slider-one">
+                        <div ngxSlickItem class="single-thumb" *ngFor="let item of bannerPosts">
+                            <img [src]="item.img" alt="images">
+                        </div>
+                    </ngx-slick-carousel>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

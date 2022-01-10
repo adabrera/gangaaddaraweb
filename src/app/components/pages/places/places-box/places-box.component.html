@@ -1,0 +1,20 @@
+<div class="places-boxes pt-115">
+    <!-- Title -->
+    <div class="section-title text-center mb-50">
+        <span class="title-tag">Popular</span>
+        <h2>Highlights Places</h2>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-lg-3 col-md-4 col-sm-6 col-10" *ngFor="let item of places">
+            <div class="place-box mt-30">
+                <div class="place-bg-wrap">
+                    <div class="place-bg" [style.background-image]="'url('+item.gridimg+')'"></div>
+                </div>
+                <div class="desc">
+                    <h4><a routerLink="/places-details/{{item.id}}">{{item.title}}</a></h4>
+                    <span class="time">{{item.time}}</span>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
